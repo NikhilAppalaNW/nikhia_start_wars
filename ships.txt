@@ -1,3 +1,6 @@
 x wing
 tire fighter
 A wing
+reset ships
+add fighter
+add bomber
